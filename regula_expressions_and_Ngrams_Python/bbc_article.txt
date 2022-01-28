@@ -1,0 +1,67 @@
+src: https://www.bbc.co.uk/news/business-41779341
+
+US economy grows faster than expected in third quarter
+Published27 October 2017
+Share
+US car worker
+IMAGE SOURCE,GETTY IMAGES
+Image caption,
+Spending on autos increased, helping US GDP to grow at 3%
+The US economy expanded at an annual pace of 3% during the three months to the end of September, which was stronger than expected.
+
+The growth extended the robust activity reported in the previous quarter, when US GDP grew at an annual pace of 3.1%.
+
+Analysts had been expecting a sharp slowdown after back-to-back hurricanes battered several states in the quarter.
+
+But consumer spending held steady, despite a drop in homebuilding investment.
+
+Together the two quarters mark the strongest six months of economic activity for the US since 2014, the Commerce Department said.
+
+"Overall, this is a very solid performance, given the disruption caused by Hurricanes Harvey and Irma," wrote Ian Shepherdson of Pantheon Macroeconomics.
+
+"Their net effect seems to have been smaller and shorter than we expected."
+
+What went into the figure?
+Consumer spending, which increased at a hearty 3.3% rate in the second quarter, slowed to 2.4% growth - a deceleration probably caused by the hurricanes.
+
+Construction spending also fell, but exports and business investments in equipment and intellectual property accelerated from the previous quarter.
+
+Economists warned that estimates of business inventories, a major factor in the GDP rise, can vary significantly quarter-to-quarter.
+
+Excluding that category, GDP - a broad measure of goods and services made in the US - increased at an annual pace of 2.3%.
+
+The Commerce Department cautioned that its figures did not capture all the losses caused by the storms, which caused widespread closures of factories, offices and airports in states such as Florida and Texas.
+
+Its GDP estimates, for example, do not measure activity in US territories, such as Puerto Rico, which suffered some of the most severe damage.
+
+The Commerce Department estimated that storm-related damage to fixed assets, such as homes and government buildings, totalled more than $131bn (£100bn).
+
+It also said it expected the government and insurers to pay more than $100bn in insurance claims, with foreign companies accounting for more than $17.4bn.
+
+chart of US GDP growth by president
+Commerce Department Secretary Wilbur Ross claimed Friday's GDP report a sign of progress, calling it a "remarkable achievement in light of the recent hurricanes".
+
+President Donald Trump has made hitting annual GDP growth of 3% a goal, and pledged tax cuts and other policies intended to reach that pace or higher.
+
+"President Trump's bold agenda is steadily overcoming the dismal economy inherited from the previous administration," Mr Ross said. "As the President's tax cut plan is implemented, our entire economy will continue to come roaring back."
+
+On a year-on-year basis, GDP was up 2.3%, the Commerce Department said in its report, which is an advance estimate that will be revised as more data is collected.
+
+That pace is roughly in line with US expansion since the 2007-2009 recession.
+
+Kenneth Rogoff, a professor of economics at Harvard University, said the growth reflects improvement in the labour market and other areas that date back to the Obama administration.
+
+While some of the president's plans may boost growth, they're not in place yet, he said.
+
+"Let's make no mistake - this was a very good number," he said. "Jobs have been improving, consumption's been improving, businesses are doing better, there is a profound inequality problem but the US economy, despite not much from President Trump, has been doing well."
+
+Economists said the underlying economic strength shown in the report makes it more likely that central bankers at the US Federal Reserve will raise interest rates again by the end of the year, as expected.
+
+The price index for consumer spending, a closely-watched measure of inflation, increased at 1.3% in the third quarter, excluding food and energy. That remains below the Federal Reserve's 2% target.
+
+myedit:
+1: Write a regular expression that can find all amounts of money in a text. 
+Your expression should be able to deal with different formats and 
+currencies, for example £50,000 and £117.3m as well as 30p, 500m euro, 
+338bn euros, $15bn and $92.88. Make sure that you can at least detect 
+amounts in Pounds, Dollars and Euros. (20pts)
